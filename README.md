@@ -3,7 +3,7 @@ My name is Adamo and I'm a Software Engineering student in Co-op at Concordia Un
 
 📚 I'm currently finishing my first year at university, and preparing for my first work term in the Fall.
 
-💻 I'm also working on a portfolio website to practice my web programming, to learn JavaScript frameworks, and to show my projects and experience in a more personal and artsy way.
+💻 I'm also working on a portfolio website to practice my web programming, to learn the React framework, and to show my projects and experience in a more personal and artsy way.
 You can check my progress on my GitHub repo [here](https://github.com/Adamo-O/Portfolio-website)!
 
 📫 Here's how you can reach me: 
