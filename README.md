@@ -1,16 +1,17 @@
-### Hi there 👋
-My name is Adamo and I'm a Software Engineering student in Co-op at Concordia University in Canada. Here's a bit about me!
+<h1 align="center">Hi there 👋 I'm Adamo!</h1>
 
-📚 I'm currently finishing my first year at university, and I'm preparing for my internship at Genetec in the Fall.
+<h3 align="center">I'm a Software Engineering student in Canada. Here's a bit about me!</h3>
 
-💻 I recently finished designing a portfolio website to show off my work in a more visual and artsy way! Check out the GitHub repo [here](https://github.com/Adamo-O/Portfolio-website) and the website itself [here](https://adamoorsini.com)!
+💼 I'm currently interning as a Software Developer at Genetec. I'm working on Azure DevOps infrastructure templates to make future introduction of plugins and API services more modular and simpler.
 
-☕ Right now, I'm studying data structures & algorithms as well as React to build a stock trading web app with my friends later in the summer. 
+💻 I recently finished designing a portfolio website to present my past projects and experience in a more visual way! Check out the GitHub repo [here](https://github.com/Adamo-O/Portfolio-website) and the website itself [here](https://adamoorsini.com)!
+
+☕ On the side, I'm seeking out side projects and signing up for hackathons and competitions to gain some more experience, connections, and skills. 
 
 📫 Here's how you can reach me: 
   
-  📧 adamo.orsini01@gmail.com 
+  > 📧 adamo.orsini01@gmail.com 
 
-  🔗 https://www.linkedin.com/in/adamo-orsini/
+  > 🔗 https://www.linkedin.com/in/adamo-orsini/
   
-### Thanks for stopping by! ✌
+<h3 align="center">Thanks for stopping by! ✌</h3>
