@@ -4,7 +4,7 @@
 
 - 💼 I'm currently studying at Concordia University, learning topics including Operating Systems and React. 
 - 🛠 I've been working on projects in my free time to hone my skills.
-- 🏆 I'm also competing in hackathons and case competitions to make connections and gain practical experience. I'll be representing Concordia at [ENGCOMM 2022](https://www.engcomm.ca/) in February!
+- 🏆 I'm also competing in hackathons and case competitions to make connections and gain practical experience. My team won the Best National Team Award at [ENGCOMM 2022](https://www.engcomm.ca/) this February!
 
 ### Connect with me: 
 [<img align="left" alt="Adamo Orsini | LinkedIn" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]
