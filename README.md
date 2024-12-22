@@ -4,7 +4,7 @@
 
 - 🏫 I recently started my Master's of Computer Science (Thesis) at Concordia University.
 - 📚 I'm taking Representation Learning at MILA, while working on various side projects and preparing to start my research. 
-- 💼 I'm seeking full-stack web development projects during my reserach, so reach out if you have an idea in mind!
+- 💼 I'm seeking part-time or summer internships during my research, so reach out if you have something in mind!
 - ⛳ I'm actively developing new features for [SoftGolf](https://softgolf.io) as CTO, so keep an eye out there for some of my newest work!
 
 ### Connect with me:
